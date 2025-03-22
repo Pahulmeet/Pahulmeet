@@ -6,7 +6,7 @@
 ---
 
 📌 **Check out my Portfolio:**  
-🎯 [👉 pahul.codes](https://github.com/Pahulmeet) ← _This is where the magic lives!_
+🎯 [👉 pahul.codes](https://github.com/Pahulmeet) ← _Updating the link soon... This is where the magic lives!_
 
 ---
 
