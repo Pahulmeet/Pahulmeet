@@ -8,7 +8,7 @@
 <h2 align="center">🚀 Check Out My Portfolio</h2>
 
 <h3 align="center">
-  👉 <a href="https://my-website.com/" target="_blank"><strong>🌐 pahul-portfolio-website</strong></a> 👈  
+  👉 <a href="https://pahul-portfolio.vercel.app/" target="_blank"><strong>🌐 pahul-portfolio-website</strong></a> 👈  
 </h3>
 
 <p align="center"><em>This is where the magic lives!</em></p>
