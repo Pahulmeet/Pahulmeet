@@ -8,7 +8,7 @@
 ---
 
 📌 **Check out my Portfolio:**  
-🎯 [👉 pahul.codes](https://your-portfolio-link.com) ← _This is where the magic lives!_
+🎯 [👉 pahul.codes](https://github.com/Pahulmeet) ← _This is where the magic lives!_
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 📬 Connect With Me
 
-- 💼 Portfolio: [pahul.codes](https://your-portfolio-link.com)  
+- 💼 Portfolio: [pahul.codes](https://github.com/Pahulmeet))  
 - 💻 LinkedIn:  
 - 📧 Email: pahulmeetsingh@gmail.com
 
