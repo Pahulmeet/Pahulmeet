@@ -1,48 +1,45 @@
-# Hi there 👋 I'm Pahul
+<h1 align="center">Hi there 👋 I'm Pahul</h1>
 
-**Computer Scientist • Data Scientist • Software Developer**
-
-I'm passionate about combining software engineering, data analytics, and artificial intelligence to build innovative, reproducible, and impactful solutions. With a solid foundation in computer science fundamentals—ranging from algorithms and database design to machine learning and data visualization—I love tackling challenging problems and continuously exploring new technologies.
-
----
-
-## 💻 About Me
-
-- 🧑‍🎓 **Education:** MSc in Computer Science (Intelligent Systems), B.Eng in Computer Engineering.
-- 🚀 **Skills:** 
-  - **Languages & Frameworks:** Python, R (Tidyverse), JavaScript (React), Flask, Django, HTML/CSS, SQL.
-  - **Data & AI:** Machine Learning, NLP, Large Language Models (LLMs), Data Visualization, Data Analysis.
-  - **Tools & Tech:** Git/GitHub, Docker, VS Code, RStudio, Jupyter Notebook, FFMPEG, Whisper, OpenCV.
-- 🌍 **Interests:** Data Analytics, Machine Learning, Full-Stack Web Development, Audio/Video Processing.
+<p align="center">
+  <strong>Computer Scientist</strong> • <strong>Data Scientist</strong> • <strong>Software Developer</strong><br>
+  Passionate about code, data, and building meaningful tech solutions 🌍✨
+</p>
 
 ---
 
-## 🚧 What I'm Currently Working On:
-
-- Developing efficient, automated pipelines for audio/video transcription and analysis using **Whisper** and **FFMPEG**.
-- Exploring advanced Large Language Models (LLMs) and their practical applications.
-- Building intuitive SaaS solutions powered by AI to enhance productivity in education, research, and beyond.
+📌 **Check out my Portfolio:**  
+🎯 [👉 pahul.codes](https://your-portfolio-link.com) ← _This is where the magic lives!_
 
 ---
 
-## 🗂️ Highlighted Projects:
+### 🧠 About Me
 
-- **[Landfills Data Analysis](#)**: An interactive **R Shiny dashboard** designed to explore landfill data across the United States
-- **[TripleM - AI Meeting Co-Pilot](#)**: A productivity platform that automates transcription, extracts valuable data from audio/video files, generates meeting summaries, and extracts tasks using AI.
-- **[Raven Quiz](#)**: AI-powered quiz creation and automatic answer evaluation platform for educators.
-- **[Glossary Extraction from PDFs](#)**: Automated pipeline for structured glossary extraction from complex PDFs using advanced OCR and AI models.
-- More exciting projects on my [Portfolio Website →](YOUR_PORTFOLIO_LINK)
+💡 I'm a computer scientist with a background in full-stack development, data science, and AI. I enjoy turning complex ideas into elegant, efficient, and impactful solutions.
 
----
-
-## 📫 Let's Connect!
-
-- **Portfolio:** [YOUR_PORTFOLIO_LINK](YOUR_PORTFOLIO_LINK)
-- **LinkedIn:** [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- **Email:** pahulmeetsingh@gmail.com
-
-I'm always excited to discuss technology, collaboration opportunities, or share ideas—feel free to reach out!
+- 🎓 MSc in Computer Science (Intelligent Systems)  
+- 🛠️ Proficient in: `Python`, `R (Tidyverse)`, `JavaScript`, `SQL`, `Flask`, `Django`, `React`  
+- 📊 Data Enthusiast: Cleaning, analyzing, visualizing & storytelling with data  
+- 🎬 Working with: `Whisper`, `FFMPEG`, `OpenCV` — audio/video + AI  
+- 🔍 Focused on: Open data, reproducible research, and emerging AI (LLMs especially!)  
+- 🌱 Lifelong learner
 
 ---
 
-⭐️ **If you like my work, consider starring my repositories!**
+### 🚀 Current Interests
+
+- 🤖 Building AI-powered tools & assistants  
+- 📚 Exploring applications of LLMs in education & research  
+- 🎓 Making data workflows reproducible and scalable  
+- 🌍 Bridging technology with global challenges  
+
+---
+
+### 📬 Connect With Me
+
+- 💼 Portfolio: [pahul.codes](https://your-portfolio-link.com)  
+- 💻 LinkedIn:  
+- 📧 Email: pahulmeetsingh@gmail.com
+
+---
+
+> ⭐️ If you find something interesting here, feel free to explore my repos and give them a ⭐️!
