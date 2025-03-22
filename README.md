@@ -1,14 +1,17 @@
-<h1 align="center">Hi there 👋 I'm Pahul</h1>
+<h2 align="center">Hi there 👋 I'm Pahul</h2>
 
 <p align="center">
-  <strong>Passionate about code, data, and building meaningful tech solutions 🌍✨</strong> •
+  <strong>Passionate about code, data, and building meaningful tech solutions 🌍✨</strong>
+</p>
 
----
 
-📌 **Check out my Portfolio:**  
-🎯 [👉 pahul.codes](https://github.com/Pahulmeet) ← _Updating the link soon... This is where the magic lives!_
+<h2 align="center">🚀 Check Out My Portfolio</h2>
 
----
+<h3 align="center">
+  👉 <a href="https://my-website.com/" target="_blank"><strong>🌐 pahul-portfolio-website</strong></a> 👈  
+</h3>
+
+<p align="center"><em>This is where the magic lives!</em></p>
 
 ### ℹ️ About Me
 
