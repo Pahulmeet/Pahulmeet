@@ -7,13 +7,10 @@
   <a href="https://pahul-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20|%20click%20here-blue?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <p align="center"><em>This is where the magic lives!</em></p>
 </p>
-<h1>
-<h3 align="center">
-  🌲 <a href="https://pahul-portfolio.vercel.app/" target="_blank"><strong> pahul-portfolio-website</strong></a>  
-</h3>
 
-<p align="center"><em>This is where the magic lives!</em></p>
+<h1>
 
 ### ℹ️ About Me
 
