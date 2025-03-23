@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://pahul-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-black?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio |%20click here-black?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 <h1>
