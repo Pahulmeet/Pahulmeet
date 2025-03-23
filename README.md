@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Pahul</h2>
 
 <p align="center">
-  <strong>Passionate about code, data, and building meaningful tech solutions 🌍✨</strong>
+  <strong>Passionate about code, data, and building meaningful tech solutions 🌍</strong>
 </p>
 <p align="center">
   <a href="https://pahul-portfolio.vercel.app/" target="_blank">
