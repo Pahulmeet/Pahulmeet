@@ -15,7 +15,7 @@
 ### ℹ️ About Me
 
 - 🎓 MSc in Computer Science (Intelligent Systems)  
-- 🛠️ Proficient in: `Python`, `R (Tidyverse)`, `JavaScript`, `SQL`, `Flask`, `Git`, `React`  
+- 🛠️ Proficient in: `Python`, `R (Tidyverse)`, `JavaScript`, `SQL`, `PyTorch`, `Flask`, `Git`, `React`  
 - 📊 Data Enthusiast: Cleaning, analyzing, visualizing & storytelling with data  
 - 🎬 Working with: `Whisper`, `FFMPEG`, `OpenCV` — audio/video + AI  
 - 🔍 Focused on: Open data, reproducible research, and emerging AI (LLMs especially!)  
